@@ -25,7 +25,8 @@ body div {
         margin-top: 75px;
     }
  
-    body div#twitter
+    #twitter
     {
+        text-align:center;
         bottom: 10px;
     }
