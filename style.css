@@ -1,6 +1,6 @@
 html 
 {
-    background-color: #111111;
+    background-color: #ffffff;
 }
 
 @font-face {
@@ -16,44 +16,15 @@ body {
 
 body div {
     text-align:center;
-    background-color: #111;
+    background-color: #fff;
 }
     body div#nameDiv
     {
-        color: #f0f0f0;
+        color: #AAF0D1;
         font-size: 100px;
         margin-top: 75px;
     }
-    body div#caption
-    {
-        color: #C5EFFD;
-        font-size: 30px;
-        margin: 10px 0 0 292px;
-    } 
-    body div#line
-    {
-        background-color: #BD2031;
-        width: 664px;
-        height: 3px;
-        margin: 10px auto;
-    }
-    body div#contact
-    {
-        color: #f0f0f0;
-        font-size: 12px; 
-    }
-    body div.info
-    {
-        margin-bottom: 2px;
-    }
-    body div#email
-    {
-        margin-left: 479px;
-    }
-    body div#phone
-    {
-        margin-left: 573px;
-    }   
+ 
     body div#twitter
     {
         margin-left: 592px;
