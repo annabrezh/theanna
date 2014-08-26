@@ -4,14 +4,14 @@ html
 }
 
 @font-face {
-    font-family: Nobile;
-    src: url('nobile.ttf');
+    font-family: Coolvetica;
+    src: url('coolvetica.ttf');
 }
 
 
 body {
     margin: 0;
-    font-family: Nobile, Sans-Serif;
+    font-family: Coolvetica, Sans-Serif;
 }
 
 body div {
