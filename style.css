@@ -1,22 +1,22 @@
 html 
 {
-    background-color: #ffffff;
+    background-image: url("greyzz.png");
 }
 
 @font-face {
-    font-family: Nobile;
-    src: url('nobile.ttf');
+    font-family: Coolvetica;
+    src: url('coolvetica.ttf');
 }
 
 
 body {
     margin: 0;
-    font-family: Nobile, Sans-Serif;
+    font-family: Coolvetica, Sans-Serif;
 }
 
 body div {
     text-align:center;
-    background-color: #fff;
+    background-image: url("greyzz.png");
 }
     body div#nameDiv
     {
