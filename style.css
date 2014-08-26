@@ -4,14 +4,14 @@ html
 }
 
 @font-face {
-    font-family: Simply-Glamorous;
-    src: url('./simply_glamorous/Simply Glamorous.ttf');
+    font-family: KGEyesWideOpen;
+    src: url('./kg_eyes_wide_open/KGEyesWideOpen.ttf');
 }
 
 
 body {
     margin: 0;
-    font-family: Simply-Glamorous, Sans-Serif;
+    font-family: KGEyesWideOpen;
 }
 
 body div {
