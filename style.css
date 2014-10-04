@@ -29,3 +29,13 @@ body div {
     {
         
     }
+    
+    body div#resume
+    {
+     color: #000000;
+     font-size: 14px;
+     margin-top: 20px;
+     font-family: Helvetica;
+     
+    }
+    
